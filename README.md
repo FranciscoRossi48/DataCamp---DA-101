@@ -1,4 +1,4 @@
 # DataCamp---DA-101
-This is the case study that I had to get the Data Analyst Associate certification
+This is the case study that I had to solve to get the DataCamp's Data Analyst Associate certification
 
 Case Study Project - Food Restaurant Claims Company Background Vivendo is a fast food chain with 200+ stores in four locations in Brazil. For the past five years, this fast food chain has experienced incredible growth. To reorganize its legal department, they have hired a new chief legal officer. Customer Question The chief legal officer has decided to investigate the existing claims records. They want to come up with a plan for the future. They would like you to answer the following questions to help: ● What are the characteristics of the claims in different locations? ● How much does the claim amount differ from each claim? ● What we can learn from comparing active claims and closed claims?
